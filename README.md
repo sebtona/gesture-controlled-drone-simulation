@@ -41,10 +41,11 @@ This was my final project in my Biorobotics/Cybernetics class. I worked on a tea
 ## Deliverables
 - Operation Demonstration
 
+https://github.com/sebtona/gesture-controlled-drone-simulation/assets/46403390/1f04c658-46f4-4352-8577-135667120adb
 - Project Presentation: https://github.com/sebtona/gesture-controlled-drone-simulation/blob/main/project_presentation.pptx
 - IEEE Conference Paper: https://github.com/sebtona/gesture-controlled-drone-simulation/blob/main/ieee_conference_paper.pdf
-- Code: https://github.com/sebtona/gesture-controlled-drone-simulation/blob/main/code
-- Recorded Gesture Data: https://github.com/sebtona/gesture-controlled-drone-simulation/blob/main/data
+- Code: https://github.com/sebtona/gesture-controlled-drone-simulation/blob/main/Code
+- Recorded Gesture Data: https://github.com/sebtona/gesture-controlled-drone-simulation/blob/main/Data
 
 ## Environment Setup
 1. Make sure you have a computer running a Linux distribution such as Ubuntu 20.04. <a href="https://ubuntu.com/tutorials/install-ubuntu-on-wsl2-on-windows-10#1-overview)" target="_blank">Windows Subsystem for Linux (WSL)</a> is recommended as this is the platform the code was developed on.
